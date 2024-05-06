@@ -1,4 +1,4 @@
-package com.example.JobApp.company.companyServiceImp;
+package com.example.JobApp.comapny.companyServiceImp;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

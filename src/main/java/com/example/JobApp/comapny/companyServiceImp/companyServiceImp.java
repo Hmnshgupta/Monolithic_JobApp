@@ -1,4 +1,4 @@
-package com.example.JobApp.company.companyServiceImp;
+package com.example.JobApp.comapny.companyServiceImp;
 
 import java.util.List;
 import java.util.Optional;
